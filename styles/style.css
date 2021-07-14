@@ -152,7 +152,7 @@
       flex-direction: column;
       align-items: center;
   }
-  .slide-area{
+  .slid-area{
   
       grid-template-columns: repeat(1,1fr);
      
@@ -166,7 +166,7 @@
       padding-right: 40px;
       padding-top: 80px;
   }
-  .conmbol-image img{
+  .image-conmbol img{
       width: 330px;
       height: 250px;
       padding-top:15px;
